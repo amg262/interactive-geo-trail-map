@@ -1,0 +1,1 @@
+if(typeof jQuery!=="undefined"){jQuery(function(b){var a=false;b(".geo-mashup-search-input").focus(function(){if(!a){b(this).val("");a=true}})})};

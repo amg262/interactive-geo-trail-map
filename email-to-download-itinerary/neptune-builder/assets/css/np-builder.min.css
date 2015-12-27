@@ -1,0 +1,17 @@
+.np_sc_builder_content{
+    display: none !important
+}
+
+#cboxClose {
+    bottom: auto !important;
+    right: 0;
+    top: 0;
+}
+
+.np-selector{
+    padding: 30px;
+}
+
+.np_sc_cb table{
+    display: none
+}

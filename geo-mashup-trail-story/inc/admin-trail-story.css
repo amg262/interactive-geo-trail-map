@@ -1,0 +1,294 @@
+/** ADMIN PAGE STYLES  **/
+.icon-header-post-type-title,
+.icon-header-image-title,
+.icon-post-type,
+.icon-image-buttons {
+    width:50%;
+    display:block;
+    float:left;
+}
+.trail-story-icon-button-container,
+.trail-story-icon-image-container {
+    position:relative;
+    width:70%;
+    display:block;
+    float:left;
+}
+.trail-story-icon-button-container {
+    width:30%;
+}
+
+/*.gm-legend-title,
+#gm-trail-conditions-check-all,
+#gm-itinerary-category-check-all,
+.gm-legend .symbol,
+#gm-trail-story-category-check-all {
+	display: none !important;
+	
+}*/
+
+.gm-legend input {
+	margin: 0 10px 0 0 !important;
+
+}
+.gm-map iframe {
+	margin: 0;
+}
+
+
+.plugin-info.content h4 {
+    margin:10px 0;
+}
+
+#geo-mashup-inline-help-link-wrap {
+    display: inline;
+    float: right;
+}
+
+#trail-story-post #geo_mashup_location_editor label,
+#trail-story-post #geo_mashup_location_editor #geo_mashup_search {
+    /*display: none !important;*/
+}
+
+#trail-story-post #geo_mashup_location_editor select {
+    margin:10px 0;
+}
+
+.admin-map-label {
+    font-weight: 600;
+}
+
+#trail-story-post #geo-mashup-location-table {
+    display: none !important;
+}
+
+
+#trail-story-post #geo-mashup-inline-help-link,
+#trail-story-post #geo_mashup_add_location {
+    margin:35px 0 0 0;
+    display: block;
+}
+
+#geo-mashup-inline-help-link-wrap {
+    display: none;
+    float: left;
+}
+
+#trail-story-post #geo_mashup_add_location  {
+    float:right !important;
+}
+
+#trail-story-post fieldset {
+    margin:0;
+    padding:0;
+    border:none !important;
+}
+#trail-story-post {
+    max-width: 100%;
+    width:100%;
+}
+#trail-story-post input[type="text"] {
+    max-width:500px;
+    width: 100%;
+}
+
+#ui-datepicker-div {
+    display: none !important;
+}
+/*.ml-responsive-table.ml-responsive-table-0 {
+    display: none !important;
+}*/
+.ed_download_btn a {
+    display: inline-block;
+    padding: 15px 25px !important;
+    background: #004985 !important;
+    color: #FFFFFF !important;
+    text-decoration: none !important;
+    border: 2px solid #0366B4 !important;
+    font-size: 24px !important;
+    margin: 30px 0 !important;
+}
+
+.ed_download_btn a:hover
+ {
+    opacity:.7;
+}
+.etd_dw_form input[type=text] {
+    width: 100%;
+    max-width: 400px !important;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 18px;
+}
+#adminmenu > li > .menu-top.toplevel_page_geo-trail-map {
+    margin:12px 0 0 0;
+    border-top: 2px dotted #727171;
+}
+
+
+#adminmenu > li > .wp-menu-open.toplevel_page_geo-trail-map {
+    border-top: 3px inset #4DB270 !important;
+}
+
+.wp-menu-open.menu-top.menu-icon-itinerary .wp-submenu.wp-submenu-wrap {
+    border-bottom: 3px inset #4DB270 !important;
+}
+
+#adminmenu > li > .menu-top.menu-icon-itinerary {
+    border-bottom: 2px dotted #727171;
+    /*margin:0 0 5px 0;*/
+}
+
+#menu-posts-itinerary {
+    margin:0 0 12px 0 !important;
+}
+.icon {
+    opacity: 1;
+}
+.icon:hover {
+    opacity: .7;
+}
+.star {
+    background: url('../assets/star.png') no-repeat left center;
+    display: inline-block;
+    height:auto;
+    width:15px;
+    margin:5px;
+    float:left;
+}
+.info {
+    background: url('../assets/info.png') no-repeat left center;
+    display: inline-block;
+    height:auto;
+    width:15px;
+    margin:5px;
+    float:left;
+}
+.warn {
+    background: url('../assets/warn.png') no-repeat left center;
+    display: inline-block;
+    height:auto;
+    width:15px;
+    margin:0 5px;
+    float:left;
+}
+.closebtn {
+    background: url('../assets/close.png') no-repeat right center;
+    opacity: .5;
+    display: block;
+    height:32px;
+    width:32px;
+    margin:0 5px;
+    float:right;
+}
+.closebtn:hover {
+    opacity: .7;
+    cursor: pointer;
+}
+.success {
+    background: url('../assets/success.png') no-repeat left center;
+    display: inline-block;
+    height:32px;
+    width:32px;
+    margin:0 5px;
+    float:left;
+}
+.non-success {
+    background: url('../assets/error.png') no-repeat left center;
+    display: inline-block;
+    height:32px;
+    width:32px;
+    margin:0 5px;
+    float:left;
+}
+.submit {
+    max-width: 100%;
+    width: 100%;
+    display: block;
+    opacity: 1;
+    line-height: 1.8;
+    font-size: 20px;
+}
+.submit:hover {
+    opacity: .9;
+}
+#message {
+    max-width: 100%;
+    width: 100%;
+    box-shadow: 0 3px 8px rgba(0,0,0,.33);
+    padding: 10px 5px;
+}
+.locationinfo.post-location-info .gm-style img {
+    display: block;
+    margin: 0 auto;
+    max-width: 200px !important;
+    width: 100% !important;
+    height: auto !important;
+}
+
+.gm-legend-title {
+    display: none !important;
+}
+
+dl.gm-legend, dl.gm-legend dt, dl.gm-legend dd {
+    display:inline-block;
+}
+dl.gm-legend {
+    width:50%;
+}
+
+
+/*.wp-menu-open.menu-top.menu-icon-itinerary .wp-submenu.wp-submenu-wrap {
+    border-bottom: 3px inset #4DB270 !important;
+}*/
+/*#adminmenu > li > .menu-top.menu-icon-trail-route,
+#adminmenu > li > .menu-top.menu-icon-trail-story,
+#adminmenu > li > .menu-top.menu-icon-trail-condition {
+    border-left: 3px dotted #727171;
+    border-right: 3px dotted #727171;
+}*/
+
+/* We use this media query to add styles to any device that supports media queries */
+@media only screen {
+
+}
+
+/**
+ * Foundation: XLarge.
+ * Min-width 1441px and max-width 1920px, use when QAing xlarge screen-only issues 
+ */
+@media only screen and (max-width: 120em) {
+ 
+}
+
+/**
+ * Foundation: Large.
+ * Min-width 1025px and max-width 1440px, use when QAing large screen-only issues
+ */
+@media only screen and (max-width: 90em) { 
+ 
+}
+
+/**
+ * Foundation: Medium.
+ * Min-width 641px and max-width 1024px, use when QAing tablet-only issues
+ */
+@media only screen and (max-width: 64em) {
+    
+}
+/**
+ * Foundation: Small.
+ * Max-width 640px, mobile-only styles, use when QAing mobile issues
+ */
+@media only screen and (max-width: 40em) {
+    .gm-map iframe {
+        height:400px !important;
+    }
+    #trail-story-post .ml-responsive-table.ml-responsive-table-0 {
+        display: none !important;
+    }
+    /*.ml-responsive-table.ml-responsive-table-0 {
+        display: none;
+    }*/
+    
+}

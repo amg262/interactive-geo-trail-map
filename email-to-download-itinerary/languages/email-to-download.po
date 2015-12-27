@@ -1,0 +1,268 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: email-to-download\n"
+"POT-Creation-Date: 2015-10-10 02:43+0600\n"
+"PO-Revision-Date: 2015-10-10 02:43+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../email-to-download.php:13
+msgid "Sorry cowboy! This is not your place"
+msgstr ""
+
+#: ../email-to-download.php:142
+msgid "Download Link"
+msgstr ""
+
+#: ../email-to-download.php:143
+msgid ""
+"Dear User,\n"
+"\n"
+"Thank you for downloading our product. We have generated the download link "
+"for you. Please click on the following link to download the product. Please "
+"note that, this link will be active for {{download_expire}} hour(s).\n"
+"\n"
+"Download here: {{download_link}}\n"
+msgstr ""
+
+#: ../email-to-download.php:240
+msgctxt "post type general name"
+msgid "ETD Downloads"
+msgstr ""
+
+#: ../email-to-download.php:241
+msgctxt "post type singular name"
+msgid "ETD Download"
+msgstr ""
+
+#: ../email-to-download.php:242
+msgctxt "admin menu"
+msgid "ETD Downloads"
+msgstr ""
+
+#: ../email-to-download.php:243
+msgctxt "add new on admin bar"
+msgid "ETD Download"
+msgstr ""
+
+#: ../email-to-download.php:244
+msgctxt "download"
+msgid "Add New"
+msgstr ""
+
+#: ../email-to-download.php:245
+msgid "Add New Download"
+msgstr ""
+
+#: ../email-to-download.php:246
+msgid "New Download"
+msgstr ""
+
+#: ../email-to-download.php:247
+msgid "Edit Download"
+msgstr ""
+
+#: ../email-to-download.php:248
+msgid "View Download"
+msgstr ""
+
+#: ../email-to-download.php:249
+msgid "All Downloads"
+msgstr ""
+
+#: ../email-to-download.php:250
+msgid "Search Downloads"
+msgstr ""
+
+#: ../email-to-download.php:251
+msgid "Parent Downloads:"
+msgstr ""
+
+#: ../email-to-download.php:252
+msgid "No Downloads found."
+msgstr ""
+
+#: ../email-to-download.php:253
+msgid "No Downloads found in Trash."
+msgstr ""
+
+#: ../email-to-download.php:268
+msgid "Description."
+msgstr ""
+
+#: ../email-to-download.php:322
+msgid "Email to Download ShortCode"
+msgstr ""
+
+#: ../email-to-download.php:325
+msgid "Downloader ShortCode"
+msgstr ""
+
+#: ../email-to-download.php:330
+msgid "Select a Download"
+msgstr ""
+
+#: ../email-to-download.php:339
+msgid "Show Title?"
+msgstr ""
+
+#: ../email-to-download.php:349
+msgid "Show Content?"
+msgstr ""
+
+#: ../email-to-download.php:359
+msgid "Choose a style"
+msgstr ""
+
+#: ../email-to-download.php:462
+msgid "Please provide a correct email address"
+msgstr ""
+
+#: ../email-to-download.php:463
+#, php-format
+msgid ""
+"Thank you! Please check your inbox (or spam) for download link email. This "
+"link will be expired for %d hour(s)."
+msgstr ""
+
+#: ../email-to-download.php:530
+msgid "Uplaod your file or give the file URL:"
+msgstr ""
+
+#: ../email-to-download.php:534
+msgid "Upload File"
+msgstr ""
+
+#: ../email-to-download.php:577 ../email-to-download.php:640
+msgid "Email to Download Settings"
+msgstr ""
+
+#: ../email-to-download.php:577
+msgid "Settings"
+msgstr ""
+
+#: ../email-to-download.php:578 ../email-to-download.php:593
+msgid "Subscribers"
+msgstr ""
+
+#: ../email-to-download.php:600 ../email-to-download.php:606
+#: ../ed-files/templates/normal.php:17 ../ed-files/templates/popup.php:21
+#: ../ed-files/templates/slide.php:21
+msgid "Email"
+msgstr ""
+
+#: ../email-to-download.php:601 ../email-to-download.php:607
+msgid "Date"
+msgstr ""
+
+#: ../email-to-download.php:647
+msgid "General Settings"
+msgstr ""
+
+#: ../email-to-download.php:656
+msgid "Download link will expire at:"
+msgstr ""
+
+#: ../email-to-download.php:666
+msgid "Select a page for expire message:"
+msgstr ""
+
+#: ../email-to-download.php:686
+msgid "Notification email Subject:"
+msgstr ""
+
+#: ../email-to-download.php:696
+msgid "Notification email content:"
+msgstr ""
+
+#: ../email-to-download.php:713
+msgid "Save Settings"
+msgstr ""
+
+#: ../email-to-download.php:747
+msgid "Settings saved successfully."
+msgstr ""
+
+#: ../ed-files/helper.php:8
+msgid "Support / Report a bug"
+msgstr ""
+
+#: ../ed-files/helper.php:10
+msgid ""
+"Please feel free to let us know if you got any bug to report. For any type "
+"of support query, be our free member to get access on our support forum. "
+"Free members get unlimited support for all of our products."
+msgstr ""
+
+#: ../ed-files/helper.php:11
+msgid "Get Support"
+msgstr ""
+
+#: ../ed-files/helper.php:16
+msgid "Buy us a coffee"
+msgstr ""
+
+#: ../ed-files/helper.php:18
+msgid ""
+"If you like the plugin, please buy us a coffee to inspire us to develop "
+"further."
+msgstr ""
+
+#: ../ed-files/helper.php:27
+msgid "Rate us"
+msgstr ""
+
+#: ../ed-files/helper.php:29
+msgid "Please give us a 5 star review, if you like our products and support."
+msgstr ""
+
+#: ../ed-files/helper.php:43
+msgid "Subscribe to our NewsLetter"
+msgstr ""
+
+#: ../ed-files/helper.php:45
+msgid ""
+"Please join our newsletter program to get updates, offers, promotion and "
+"blog post. We don't send any spam emails and your email address is totally "
+"secured."
+msgstr ""
+
+#: ../ed-files/helper.php:53
+msgid "Join us on facebook"
+msgstr ""
+
+#: ../ed-files/helper.php:60
+msgid "Follow us on twitter"
+msgstr ""
+
+#: ../ed-files/classes/class.shortcodes.php:19
+msgid "Please provie an ID of your file."
+msgstr ""
+
+#: ../ed-files/templates/normal.php:14 ../ed-files/templates/popup.php:18
+#: ../ed-files/templates/slide.php:18
+msgid "Please give an email adress where we should send the download link."
+msgstr ""
+
+#: ../ed-files/templates/normal.php:19 ../ed-files/templates/popup.php:23
+#: ../ed-files/templates/slide.php:23
+msgid "Your email here"
+msgstr ""
+
+#: ../ed-files/templates/normal.php:25 ../ed-files/templates/popup.php:29
+#: ../ed-files/templates/slide.php:29
+msgid "Get Download Link"
+msgstr ""
+
+#: ../ed-files/templates/popup.php:2 ../ed-files/templates/slide.php:2
+msgid "Download now"
+msgstr ""
