@@ -305,7 +305,8 @@ jQuery.extend( GeoMashup, {
 								GeoMashup.term_manager.setTermVisibility( term_id, taxonomy, $( this ).is( ':checked' ) ); 
 							});
 							//alert(name);
-						if ( (default_off) && (name != 'Itineraries' )) {
+						//if ( (default_off) && (name != 'Itineraries' )) {
+						if ( (default_off)) {
 							GeoMashup.term_manager.setTermVisibility( term_id, taxonomy, false ); 
 						} else {
 							//alert('yes');
